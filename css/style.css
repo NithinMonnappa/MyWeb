@@ -36,3 +36,16 @@ body
       list-style: none;
       padding: 2px;
   }
+
+  .crd {
+      width: 30vh;
+      height: 40vh;
+      margin: 3px;
+      padding: 10px;
+  }
+
+  .crd:hover 
+  {
+    background: #1c1a27;
+    color: #dddcd7;
+  }
